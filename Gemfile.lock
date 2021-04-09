@@ -178,6 +178,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  bundler
   coffee-rails
   jbuilder
   jquery-rails
