@@ -1,0 +1,3 @@
+do /Users/mrsdo/.rvm/rubies/ruby-2.7.2/bin/ruby /Users/mrsdo/Development/flatiron/p3/heroku/fis_phase3_onboard_me/bin/rake routes --trace 
+Ruby enVironment Manager 1.29.12 (latest) (c) 2009-2020 Michal Papis, Piotr Kuczynski, Wayne E. Seguin
+
